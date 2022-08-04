@@ -24,7 +24,7 @@ To strike out a phrase or word use double '~' And now we can strike out ~~words~
 
 square brackets to name the link curved for actual URL
 [This is a good example, I'm google](https://www.google.com)
-[Ssame page but when you hover over me I have a title](https://www.google.com)
+[Same page but when you hover over me I have a title](https://www.google.com "google homepage")
 or have no name and just the link [https://www.google.com]
 
 #### Tables
