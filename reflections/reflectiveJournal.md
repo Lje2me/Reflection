@@ -14,6 +14,10 @@ https://scratch.mit.edu/projects/717581019/
 ## Week 2:
 
 ### What is git?
-Git isa  software that tracks changes done by any given person in a team in any kind of file. it is commonly used by programmers to create and develop code
+Git is a  software that tracks changes done by any given person in a team in any kind of file. it is commonly used by programmers to create and develop code
 ### What is GitHub?
 GitHub is an online tool that easily allows people to colaborate on code etc and keeps track of all changes commited by each user. it has a large community where people share their ideas and allows others to fork off a persons branch to create something new or further develop that source code.
+
+## Week 3:
+
+### Dog code
