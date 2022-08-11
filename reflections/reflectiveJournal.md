@@ -20,4 +20,5 @@ GitHub is an online tool that easily allows people to colaborate on code etc and
 
 ## Week 3:
 
-### Dog code
+### code Activities
+The coding activities were a little challenging to begin with while I rest my brain back to python after the holiday between level 4 and 5. Once I had a little helpful nudge from a fellow class member I was off and racing! Most of the code worked as expected aside from the odd failure here and there due to syntax. But for the most part I felt confident in my ability. It sometimes just takes me a little longer to think things through but once I get it I seem to manage to get it done rather quickly.
