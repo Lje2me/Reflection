@@ -1,0 +1,10 @@
+#check a string to represent an interger or not
+
+x= input('Input a string ')
+
+if x.isnumeric() == False:
+    print('The string is not an interger')
+else:
+    print('The string is an interger')
+
+
