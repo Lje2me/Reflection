@@ -1,0 +1,25 @@
+#input distance as metres
+##Input time (hours, minutes, seconds)
+###speed in m/s, kmh, mph
+
+d= int(input('Input distance (metres) '))
+hour=int(input('Input hours '))
+min=int(input('Input minutes '))
+sec=int(input('Input seconds '))
+
+def time():
+    sec1=(hour*60*60)+(min*60)+sec
+    mps= round ((d/sec1),6)
+    print(f'Your speed in metres/sec is {mps} ')
+
+def speed():
+    hour1=(sec/60/60)+(min/60)+hour
+    km=d/1000
+    kph= round((km/hour1),6)
+    mph= round((kph/1.609),6)
+    print(f'Your speed in km/h is {kph} ')
+    print(f'Your speed in miles/h is {mph} ')
+
+
+time()
+speed()
