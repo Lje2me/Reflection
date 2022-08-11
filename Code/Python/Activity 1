@@ -1,0 +1,12 @@
+#DOG to human years
+
+age= int(input('How old is your dog? '))
+
+dog1= int(age) * 10.5
+dog2= (int(age-2)*4 ) + (2*10.5)
+
+if int(age)<=2:
+    print(f' your dog is {dog1} in human years!')
+else:
+    print(f'Your dog is {dog2} in human years!')
+    
