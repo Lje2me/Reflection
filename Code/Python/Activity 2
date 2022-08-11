@@ -1,0 +1,16 @@
+#convert month name to the number of days
+
+month1=['February']
+month2=['April', 'June', 'September', 'November']
+month3=['January', 'March', 'May', 'July', 'August', 'October', 'December']
+
+days=input('Input the name of the Month ') .title()
+
+if days in month1:
+    print(f'{days} has 28/29 days')
+elif days in month2:
+    print(f'{days} has 30 days')
+elif days in month3:
+    print(f'{days} has 31 days')
+else:
+    print('That is invalid') 
