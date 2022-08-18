@@ -22,3 +22,13 @@ GitHub is an online tool that easily allows people to colaborate on code etc and
 
 ### code Activities
 The coding activities were a little challenging to begin with while I rest my brain back to python after the holiday between level 4 and 5. Once I had a little helpful nudge from a fellow class member I was off and racing! Most of the code worked as expected aside from the odd failure here and there due to syntax. But for the most part I felt confident in my ability. It sometimes just takes me a little longer to think things through but once I get it I seem to manage to get it done rather quickly.
+
+## Week 4:
+### Video Graph
+1. I felt comfortable as the subject of a video, for my art and design degree I was subject to many cameras so became accustomed very quickly.
+2. I did not really notice my own ego but what was shown to me opened my eyes on how people might view me, I was also a little self concious with a little double chin showing so my own self image came into question, so after the fact yes I suppose my ego came into it.
+3. We are always evolving with phones, there is a meme somewhere (i'll try to find it) with the evolution of humans standing tall, but as the phone comes in we see the head and neck droop more and more 
+4. To draw the activity I suppose start drawing a subject in as much or as little detail and once they move or get up from their space, stop drawing?
+5. I felt more attachment to my image, seeing how others see me rather than my device, I do tend to spend a lot of time on my phone but when in the presence of others I try to be more present and so the phone takes a back seat.
+
+Roman brought up a good point of AI making things more accesible for people in coding, similar to how the medium of photography made art more accessible for people and how much depth you can now dive in with the introduction of photo manipulation
