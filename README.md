@@ -1,7 +1,5 @@
-# Research
+# Cheatsheet summary
 ***
-
-## Cheatsheet summary
 
 This is practice doing Italics with '*' *This is Italisised* and now it isnt.
 
