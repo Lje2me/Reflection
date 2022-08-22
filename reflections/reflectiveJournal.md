@@ -31,4 +31,8 @@ The coding activities were a little challenging to begin with while I rest my br
 4. To draw the activity I suppose start drawing a subject in as much or as little detail and once they move or get up from their space, stop drawing?
 5. I felt more attachment to my image, seeing how others see me rather than my device, I do tend to spend a lot of time on my phone but when in the presence of others I try to be more present and so the phone takes a back seat.
 
-Roman brought up a good point of AI making things more accesible for people in coding, similar to how the medium of photography made art more accessible for people and how much depth you can now dive in with the introduction of photo manipulation
+Roman brought up a good point of AI making things more accesible for people in coding, similar to how the medium of photography made art more accessible for people and how much depth you can now dive in with the introduction of photo manipulation. This made me think about AI and manipulation working together to further enhance an image or create a totally new abstract one with similar subjects from the original. This could make for an interesting project all beit well out of my skillset.
+
+## Week 5
+### Agile development
+Today was all about Agile and the process of that. I quite like the idea of it, if you are stuck you don't get left to deal with it on your own. in a community based/team based set up people work with you to solve your ' block' 
