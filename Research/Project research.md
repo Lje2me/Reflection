@@ -16,3 +16,8 @@ Existing software of something I would like to try, be funky uses AI to enhance 
 [MachineRay: using AI to create abstract art](https://towardsdatascience.com/machineray-using-ai-to-create-abstract-art-39829438076a)
 
 Robert Gonsalves created a way for Generative Adversial Network GAN to create abstract pieces of art. He gathered abstract images from wiki art that were all public domain and from there trained his GAN to random images. He mentioned he had about 850 images and that that was not really enough to properly train it. I have thousands of images but it took him 3 weeks for it to be trained whereas for time I don't think I'm going to have that long to create.
+***
+## Update
+I have really been struggling with getting my head around AI and how it can be used effectivly or in the way that I envision it. I am considering keeping photomanipulation but dropping the machine learning aspect. The other option is changing all together and either using AI to just sort images between 'landscape' and 'portrait' folders or somehow muddling through and trying with the original idea
+### Feelings
+Feeling a little lost on how to proceed but with some extra thought and research I am hoping that I have an aha moment. 
