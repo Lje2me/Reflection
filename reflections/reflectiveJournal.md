@@ -36,3 +36,4 @@ Roman brought up a good point of AI making things more accesible for people in c
 ## Week 5
 ### Agile development
 Today was all about Agile and the process of that. I quite like the idea of it, if you are stuck you don't get left to deal with it on your own. in a community based/team based set up people work with you to solve your ' block' 
+Thursdays session we created towers with marshmallows and spaghetti with rope and tape within 18 mins and then 7mins. I thought this was a similar experiment to artists who spend an hour drawing an amazing detailed picture and then recreating it in increasingly less time and the images clearly getting worse and worse. For my team though we spent a bit of time in the 18min block planning and then creating, for the shorter blocks we teneded to follow the same kind of idea with  a few tweaks from what we learnt the previous time. This relates to prototyping from my understanding of what we were tryting to achieve.
