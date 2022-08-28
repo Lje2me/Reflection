@@ -1,0 +1,29 @@
+# An example I found using Pillow
+
+# install pillow
+sudo pip install Pillow
+# load and show an image with Pillow
+from PIL import Image
+# load the image
+image = Image.open('opera_house.jpg')
+# summarize some details about the image
+print(image.format)
+print(image.mode)
+print(image.size)
+# show the image
+image.show()
+#this will print the format, colorspace(mode) and original size
+
+# this is code on how to convert to black and white
+
+from PIL import Image
+# load the image
+image = Image.open('opera_house.jpg')
+# convert the image to grayscale
+gs_image = image.convert(mode='L')
+# save in jpeg format
+gs_image.save('opera_house_grayscale.jpg')
+# load the image again and show it
+image2 = Image.open('opera_house_grayscale.jpg')
+# show the image
+image2.show()
