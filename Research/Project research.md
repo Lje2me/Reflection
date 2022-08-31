@@ -21,3 +21,6 @@ Robert Gonsalves created a way for Generative Adversial Network GAN to create ab
 I have really been struggling with getting my head around AI and how it can be used effectivly or in the way that I envision it. I am considering keeping photomanipulation but dropping the machine learning aspect. The other option is changing all together and either using AI to just sort images between 'landscape' and 'portrait' folders or somehow muddling through and trying with the original idea
 ### Feelings
 Feeling a little lost on how to proceed but with some extra thought and research I am hoping that I have an aha moment. 
+
+## Update v2
+Gans are a great way of generating and manipulating images. I have found a rather helpful GAN diagram that I can actually make sense of on [This website]{https://neptune.ai/blog/image-processing-python} To put it into words 2 models exist in a GAN, The Generator which produces images in order to trick the the other model, the discriminator which tries to determine if the image is the real one or a generated one, This is super interesting to me as the models are constantly learning and improving. The generator tries harder to produce more real looking images and the discriminator works hard to find the fakes, I suppose this is in essence what machine learning is. GAN's can be used for photo blending which is what I would want it to do!
