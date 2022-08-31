@@ -27,3 +27,20 @@ gs_image.save('opera_house_grayscale.jpg')
 image2 = Image.open('opera_house_grayscale.jpg')
 # show the image
 image2.show()
+
+#code I wrote out with my own image and a cropped version
+#had to create a venv 
+from PIL import Image
+filename = "Ookmeet.jpg"
+with Image.open(filename) as img:
+    img.load()
+
+type(img)
+
+
+isinstance(img, Image.Image)
+
+cropped_img = img.crop((300, 150, 700, 1000))
+
+cropped_img.show()
+img.show()
