@@ -44,3 +44,41 @@ cropped_img = img.crop((300, 150, 700, 1000))
 
 cropped_img.show()
 img.show()
+
+#created a mask for an image to then be pasted on another image
+from PIL import Image
+from PIL import ImageFilter
+filename = "Ookmeet.jpg"
+with Image.open(filename) as img:
+    img.load()
+
+type(img)
+
+
+isinstance(img, Image.Image)
+def erode(cycles, image):
+    for _ in range(cycles):
+        image = image.filter(ImageFilter.MinFilter(3))
+    return image
+
+
+def dilate(cycles, image):
+    for _ in range(cycles):
+        image = image.filter(ImageFilter.MaxFilter(3))
+    return image
+
+car_img = img.crop((200, 50, 1250, 750))
+car_img_gray = car_img.convert("L")
+
+threshold = 100
+# anything light will be black, anything dark will be white for this dark image needing dark subject as mask
+car_img_threshold = car_img_gray.point (lambda x: 0 if x > threshold else 255)
+#expand and retract the area of white pixels erode will take away dilate will add
+step_1 = erode(5, car_img_threshold)
+step_2 = dilate(45, step_1)
+car_mask= erode(40, step_2)
+car_mask = car_mask.convert("L")
+car_mask = car_mask.filter(ImageFilter.BoxBlur(20))
+blank = car_img.point(lambda _:0)
+car_seg = Image.composite(car_img, blank, car_mask)
+car_seg.show()
