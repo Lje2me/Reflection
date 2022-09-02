@@ -1,3 +1,9 @@
+# Research Repository.
+I decided to put everything into folders for ease of navigation. Below is a short summary of my wild thought process into my project and a cheatsheet summary I created to help me with styling.
+
+##Summary
+For the second project I have been at war internally with wanting to do AI and Photomanipulation, both together seem like I'd have a mountain to climb whereas I have tried a little bit of photomanipulation code and that seems like a managble challenge, I would look to create either a few art pieces using code or make a very very basic photoeditor.
+
 # Cheatsheet summary
 ***
 
